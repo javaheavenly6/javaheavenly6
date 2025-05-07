@@ -1,5 +1,5 @@
 # Java Heavenly 🖤
-Mona china de día, esquizofrénica de Noche.
+Mona china de día, esquizofrénica de noche.
 
 # Acerca de Mí 👤
 ![Banner GitHub](github-readme.jpg)
